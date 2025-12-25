@@ -8,14 +8,12 @@ with hands-on experience in authentication, authorization, and real-world CRUD s
 
 Currently, I am working on **production-style projects** to become a **job-ready junior developer**.
 
----
 
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/in/md-salman-hossen/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:hossainsalman873@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Md-SalmanHossen)
-
----
+<br/>
 
 ## 💻 Tech Stack
 
@@ -46,14 +44,15 @@ Currently, I am working on **production-style projects** to become a **job-ready
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
+<br/>
+
 ### Currently Learning
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat)
 
-
----
+<br/>
 
 ## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=Md-SalmanHossen&hide_border=true)
