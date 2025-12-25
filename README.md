@@ -20,7 +20,7 @@
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge)
 
-# ![Tools & DevOps](https://img.shields.io/badge/Tools_&_DevOps-D14836?style=for-the-badge&logo=githubactions&logoColor=white)
+## Tools & DevOps
 * **Version Control:** Git, GitHub
 * **API Testing:** Postman
 * **Containerization:** Docker
