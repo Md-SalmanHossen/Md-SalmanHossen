@@ -1,4 +1,4 @@
-##  Shortly About Me : Full-Stack Developer(MERN) | Specialized in Scalable Backend Systems
+## Hi! I'm a Full-Stack Developer(MERN) | Specialized in Scalable Backend Systems
 ### 🌐 Connect with Me To Know more
 [![Portfolio](https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=portfolio&logoColor=white)](https://github.com/Md-SalmanHossen)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hossainsalman873@gmail.com)
