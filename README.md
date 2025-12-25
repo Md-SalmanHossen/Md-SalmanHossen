@@ -5,7 +5,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/mdsalman.hossen.18)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/md-salman-hossen)
 
-# ![Languages](https://img.shields.io/badge/Programming_Languages-339933?style=for-the-badge&logo=codeforces&logoColor=white)
+## Languages
 * **JavaScript:** Primary language for Full-Stack development and building scalable web applications.
 * **TypeScript:** Used for writing type-safe, robust, and maintainable code over JavaScript.
 * **Java:** Deeply explored for Object-Oriented Programming (OOPS) concepts and logic building.
@@ -17,7 +17,6 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-D14836?style=for-the-badge&logo=react&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge)
 
