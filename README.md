@@ -1,17 +1,9 @@
-# 🧠 About Me
-
-I am a Computer Science student focused on **Backend and Full-Stack development**. I enjoy building **secure, scalable REST APIs** 
-and **role-based web applications**. My core strength lies in backend development using **Node.js, Express.js, MongoDB, and PostgreSQL**,
-with hands-on experience in authentication, authorization, and real-world CRUD systems.
-
-Currently, I am working on **production-style projects** to become a **job-ready junior developer**.
-
-### 🌐 Connect with Me
-
+#  Shortly About Me : **Backend Focused-Full-Stack developer**.
+### 🌐 Connect with Me TO Know more
+[![Portfolio](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Md-SalmanHossen)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hossainsalman873@gmail.com)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/mdsalman.hossen.18)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/md-salman-hossen)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Md-SalmanHossen)
 
 ## 💻 Tech Stack
 
@@ -39,3 +31,8 @@ Currently, I am working on **production-style projects** to become a **job-ready
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Md-SalmanHossen&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Md-SalmanHossen&theme=default&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Md-SalmanHossen&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
