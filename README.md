@@ -1,19 +1,17 @@
 # 💫 About Me
 
-I am a Computer Science student focused on **Backend and Full-Stack development**.  
-I enjoy building **secure, scalable REST APIs** and **role-based web applications**.
-
-My core strength lies in backend development using **Node.js, Express.js, MongoDB, and PostgreSQL**,  
+I am a Computer Science student focused on **Backend and Full-Stack development**.I enjoy building **secure, scalable REST APIs** 
+and **role-based web applications**.My core strength lies in backend development using **Node.js, Express.js, MongoDB, and PostgreSQL**,
 with hands-on experience in authentication, authorization, and real-world CRUD systems.
 
 Currently, I am working on **production-style projects** to become a **job-ready junior developer**.
 
+### 🌐 Connect with Me
 
-## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/in/md-salman-hossen/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:hossainsalman873@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/mdsalman.hossen.18)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/md-salman-hossen)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Md-SalmanHossen)
-<br/>
 
 ## 💻 Tech Stack
 
