@@ -1,5 +1,3 @@
-## Assalamu Alikum 
-
 # 💫About Me
 
 I am a Computer Science student with a strong focus on **Backend and Full-Stack development**.  
