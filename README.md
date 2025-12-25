@@ -1,4 +1,4 @@
-# 💫 About Me
+# 🧠 About Me
 
 I am a Computer Science student focused on **Backend and Full-Stack development**.I enjoy building **secure, scalable REST APIs** 
 and **role-based web applications**.My core strength lies in backend development using **Node.js, Express.js, MongoDB, and PostgreSQL**,
@@ -46,6 +46,3 @@ Currently, I am working on **production-style projects** to become a **job-ready
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat)
 
-## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=Md-SalmanHossen&hide_border=true)
-![](https://nirzak-streak-stats.vercel.app/?user=Md-SalmanHossen&hide_border=true)
