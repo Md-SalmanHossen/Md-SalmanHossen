@@ -26,8 +26,10 @@
 * **Containerization:** Docker
 * **Deployment:** Vercel, Render, Netlify
 
-## Fundamantal concepts: 
-* **Data structure and algorithm and Database management system**
+## Fundamantal Concepts: 
+* **Data Structure and Algorithm**
+* **Database Management System**
+* **Computer Networking**
 
 ### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Md-SalmanHossen&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
