@@ -27,7 +27,7 @@
 * **Deployment:** Vercel, Render, Netlify
 
 ## Fundamantal Concepts: 
-* ** DSA**: Core problem-solving skills using efficient data structures and algorithms.
+* **DSA**: Core problem-solving skills using efficient data structures and algorithms.
 * **DBMS**: Structured data storage, retrieval, and management using SQL and relational models.
 *** Networking**: Fundamentals of data communication, protocols, and network architecture.
 
