@@ -21,10 +21,10 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge)
 
 ## Tools & DevOps
-* **Version Control:** Git, GitHub
-* **API Testing:** Postman
-* **Containerization:** Docker
-* **Deployment:** Vercel, Render, Netlify
+* **Version Control:** Git, GitHub.
+* **API Testing:** Postman.
+* **Containerization:** Docker.
+* **Deployment:** Vercel, Render, Netlify.
 
 ## Fundamantal Concepts: 
 * **DSA**: Core problem-solving skills using efficient data structures and algorithms.
