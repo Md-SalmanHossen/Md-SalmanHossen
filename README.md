@@ -34,3 +34,7 @@
 ### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Md-SalmanHossen&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Md-SalmanHossen&theme=default&hide_border=false)<br/>
+
+### 📊 Language Usage
+![](https://metrics.lecoq.io/Md-SalmanHossen?languages=1&languages.limit=5)
+
