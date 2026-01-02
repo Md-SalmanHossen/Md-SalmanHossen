@@ -1,4 +1,6 @@
-## Hi! I'm a Full-Stack Junior Developer(MERN) | Specialized in Scalable Backend Systems
+## Hi! I'm a Junior Developer(MERN Stack & PostgreSQL) | Specialized in Scalable Backend Dev
+I am a Junior Full-Stack Developer (MERN) with a strong focus on backend development. I work with PostgreSQL and RESTful APIs, have solid fundamentals in Data Structures and Algorithms, 
+and aspire to become an AI-driven software engineer. Currently, I am a 3rd year CSE student at United International University (UIU), continuously improving my skills and building real-world projects.
 ### 🌐 Connect with me to know more
 [![Portfolio](https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=portfolio&logoColor=white)](https://github.com/Md-SalmanHossen)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hossainsalman873@gmail.com)
@@ -20,14 +22,46 @@
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge)
 
+### 🎨 Frontend (MERN)
+* **React.js & JSX**
+* Lists & Keys, Event Handling and Array Methods.
+* Components & Props Drilling
+* React Hooks: `useState`, `useEffect`, `Context API`
+* React Router v7 (Beginner → Complete):`useLocation`, `useNavigate`, `useParams`
+* Form Handling (Form Hooks and zod)
+* Axios for API communication
+* **Tailwind CSS**
+
+### ⚙️ Backend
+* **Node.js, Express.js**
+* Databases: **MongoDB, PostgreSQL**
+* Authentication & Security: JWT, Sessions & Cookies, CORS, HPP, Helmet
+* File & Media Handling: Multer, Cloudinary
+* Email Service: Nodemailer
+* MVC-based **Industry-Standard Folder Structure**
+* REST API Development
+
+### 🧠 Core Concepts
+![CRUD](https://img.shields.io/badge/CRUD-Operations-0A66C2?style=for-the-badge&logo=databricks&logoColor=white)
+![Sorting](https://img.shields.io/badge/Sorting-2E7D32?style=for-the-badge&logo=codeforces&logoColor=white)
+![Searching](https://img.shields.io/badge/Searching-D148366?style=for-the-badge&logo=algolia&logoColor=white)
+![Filtering](https://img.shields.io/badge/Filtering-2E7D9A?style=for-the-badge&logo=elastic&logoColor=white)
+![DSA](https://img.shields.io/badge/DSA-Fundamentals-F5DC00?style=for-the-badge&logo=leetcode&logoColor=white)
+
+### Projects :
+* **Rental car github links** : https://github.com/Md-SalmanHossen/Car_Rental_MERN.git
+* **Auth_Practice_With_Projects** : https://github.com/Md-SalmanHossen/Express_Backend_Practice/tree/main/5_Auth_Practice_With_Project_Step3
+
+### 🌱 Currently Learning Plan
+* **Redux Toolkit (RTK) then Docker,Kubernet and AWS then Next.js**
+
 ## Tools & DevOps
 * **Version Control:** Git, GitHub.
 * **API Testing:** Postman.
 * **Containerization:** Docker.
 * **Deployment:** Vercel, Render, Netlify.
 
-## Fundamantal Concepts: 
-* **DSA**: Core problem-solving skills using efficient data structures and algorithms.
+## Fundamental Concepts: 
 * **DBMS**: Structured data storage, retrieval, and management using SQL and relational models.
 * **Networking**: Fundamentals of data communication, protocols, and network architecture.
 
