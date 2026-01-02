@@ -22,24 +22,16 @@ and aspire to become an AI-driven software engineer. Currently, I am a 3rd year 
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge)
 
-### 🎨 Frontend (MERN)
-* **React.js & JSX**
-* Lists & Keys, Event Handling and Array Methods.
-* Components & Props Drilling
-* React Hooks: `useState`, `useEffect`, `Context API`
-* React Router v7 (Beginner → Complete):`useLocation`, `useNavigate`, `useParams`
-* Form Handling (Form Hooks and zod)
-* Axios for API communication
-* **Tailwind CSS**
+### 🎨 Frontend Development Core Concepts:
+* React (JSX, Hooks, Context API), React Router v7, Axios, Tailwind CSS, Components & Props, Array Methods (map, filter, reduce), Form Handling.
+* Tailwind CSS and Bootsrap
 
-### ⚙️ Backend
+### ⚙️ Backend Development Core Concepts:
 * **Node.js, Express.js**
 * Databases: **MongoDB, PostgreSQL**
-* Authentication & Security: JWT, Sessions & Cookies, CORS, HPP, Helmet
-* File & Media Handling: Multer, Cloudinary
-* Email Service: Nodemailer
-* MVC-based **Industry-Standard Folder Structure**
-* REST API Development
+* Authentication & Security: JWT, Sessions & Cookies(Roll Base Access Control) CORS, HPP, Helmet
+* File & Media Handling: Multer, Cloudinary,Nodemailer
+* MVC-based **Industry-Standard Folder Structure** ,REST API Development
 
 ### 🧠 Core Concepts
 ![CRUD](https://img.shields.io/badge/CRUD-Operations-0A66C2?style=for-the-badge&logo=databricks&logoColor=white)
