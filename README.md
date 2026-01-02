@@ -52,9 +52,6 @@ and aspire to become an AI-driven software engineer. Currently, I am a 3rd year 
 * **Rental car github links** : https://github.com/Md-SalmanHossen/Car_Rental_MERN.git
 * **Auth_Practice_With_Projects** : https://github.com/Md-SalmanHossen/Express_Backend_Practice/tree/main/5_Auth_Practice_With_Project_Step3
 
-### 🌱 Currently Learning Plan
-* **Redux Toolkit (RTK) then Docker,Kubernet and AWS then Next.js**
-
 ## Tools & DevOps
 * **Version Control:** Git, GitHub.
 * **API Testing:** Postman.
