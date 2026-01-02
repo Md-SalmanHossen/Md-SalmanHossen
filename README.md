@@ -38,6 +38,8 @@ and aspire to become an AI-driven software engineer. Currently, I am a 3rd year 
 ![Sorting](https://img.shields.io/badge/Sorting-2E7D32?style=for-the-badge&logo=codeforces&logoColor=white)
 ![Searching](https://img.shields.io/badge/Searching-D148366?style=for-the-badge&logo=algolia&logoColor=white)
 ![Filtering](https://img.shields.io/badge/Filtering-2E7D9A?style=for-the-badge&logo=elastic&logoColor=white)
+![Auth System](https://img.shields.io/badge/Auth_System-38B2AC?style=for-the-badge)
+![RBAC](https://img.shields.io/badge/RBAC-D14836?style=for-the-badge&logo=&logoColor=white)
 
 ### Projects :
 * **Rental car github links** : https://github.com/Md-SalmanHossen/Car_Rental_MERN.git
