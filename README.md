@@ -38,7 +38,6 @@ and aspire to become an AI-driven software engineer. Currently, I am a 3rd year 
 ![Sorting](https://img.shields.io/badge/Sorting-2E7D32?style=for-the-badge&logo=codeforces&logoColor=white)
 ![Searching](https://img.shields.io/badge/Searching-D148366?style=for-the-badge&logo=algolia&logoColor=white)
 ![Filtering](https://img.shields.io/badge/Filtering-2E7D9A?style=for-the-badge&logo=elastic&logoColor=white)
-![DSA](https://img.shields.io/badge/DSA-Fundamentals-F5DC00?style=for-the-badge&logo=leetcode&logoColor=white)
 
 ### Projects :
 * **Rental car github links** : https://github.com/Md-SalmanHossen/Car_Rental_MERN.git
@@ -51,6 +50,7 @@ and aspire to become an AI-driven software engineer. Currently, I am a 3rd year 
 * **Deployment:** Vercel, Render, Netlify.
 
 ## Fundamental Concepts: 
+* **DSA**: To develop efficient problem-solving skills and write optimized, scalable software. 
 * **DBMS**: Structured data storage, retrieval, and management using SQL and relational models.
 * **Networking**: Fundamentals of data communication, protocols, and network architecture.
 
