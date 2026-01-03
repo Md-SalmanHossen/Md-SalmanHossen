@@ -23,7 +23,10 @@ and aspire to become an AI-driven software engineer. Currently, I am a 3rd year 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge)
 
 ### 🎨 Frontend Development Core Concepts:
-* React (JSX, Hooks, Context API), React Router v7, Axios,Fetch Api, Components & Props, Array Methods (map, filter, reduce), Form Handling.
+* React (JSX, **Hooks**, Context API),Components & **Props**, Array Methods (map, filter, reduce).
+* React **Router v7, Axios**,Fetch Api,
+* **Form Handling.** and zod
+* **Redux toolkit**
 * Tailwind CSS and Bootsrap
 
 ### ⚙️ Backend Development Core Concepts:
