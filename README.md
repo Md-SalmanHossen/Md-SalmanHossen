@@ -46,7 +46,8 @@ and aspire to become an AI-driven software engineer. Currently, I am a 3rd year 
 ![Pagination](https://img.shields.io/badge/Pagination-000000?style=for-the-badge&logo&logoColor=white)
 
 ### Projects :
-* **Rental car github links** : https://github.com/Md-SalmanHossen/Car_Rental_MERN.git
+* **Event Listing Platform Backend link**: https://github.com/Md-SalmanHossen/Event_Listing_Platform
+* **Rental car Backend github links** : https://github.com/Md-SalmanHossen/Car_Rental_MERN/tree/main/Server
 * **Auth_Practice_With_Projects** : https://github.com/Md-SalmanHossen/Express_Backend_Practice/tree/main/5_Auth_Practice_With_Project_Step3
 
 ## Tools & DevOps
