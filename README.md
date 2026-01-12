@@ -26,7 +26,7 @@ and aspire to become an AI-driven software engineer. Currently, I am a 3rd year 
 * React (JSX, **Hooks**, Context API),Components & **Props**, Array Methods (map, filter, reduce).
 * React **Router v7, Axios**,Fetch Api,
 * **Form Handling.** and zod
-* **Redux toolkit**
+* **Zustand**
 * Tailwind CSS and Bootsrap
 
 ### ⚙️ Backend Development Core Concepts:
