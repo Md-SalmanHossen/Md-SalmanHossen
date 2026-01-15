@@ -36,15 +36,6 @@ and aspire to become an AI-driven software engineer. Currently, I am a 3rd year 
 * File & Media Handling: Multer, Cloudinary,Nodemailer
 * MVC-based **Industry-Standard Folder Structure** ,REST API Development
 
-### 🧠 Core Concepts
-![CRUD](https://img.shields.io/badge/CRUD-Operations-0A66C2?style=for-the-badge&logo=databricks&logoColor=white)
-![Sorting](https://img.shields.io/badge/Sorting-2E7D32?style=for-the-badge&logo=codeforces&logoColor=white)
-![Searching](https://img.shields.io/badge/Searching-D148366?style=for-the-badge&logo=algolia&logoColor=white)
-![Filtering](https://img.shields.io/badge/Filtering-2E7D9A?style=for-the-badge&logo=elastic&logoColor=white)
-![Auth System](https://img.shields.io/badge/Auth_System-38B2AC?style=for-the-badge)
-![RBAC](https://img.shields.io/badge/RBAC-D14836?style=for-the-badge&logo=&logoColor=white)
-![Pagination](https://img.shields.io/badge/Pagination-000000?style=for-the-badge&logo&logoColor=white)
-
 ## ⭐ Featured Projects
 ###  Event Listing Platform | [Live](https://event-listing-platform-esla.vercel.app) · [Code](https://github.com/Md-SalmanHossen/Event_Listing_Platform)
 - **Tech:** React (Zustand), Express.js, MongoDB, JWT, Cloudinary
