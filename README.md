@@ -46,21 +46,19 @@ and aspire to become an AI-driven software engineer. Currently, I am a 3rd year 
 ![Pagination](https://img.shields.io/badge/Pagination-000000?style=for-the-badge&logo&logoColor=white)
 
 ## ⭐ Featured Projects
-### 🔹 Event Listing Platform | [Live](https://event-listing-platform-esla.vercel.app) · [Code](https://github.com/Md-SalmanHossen/Event_Listing_Platform)
-**Tech:** React (Zustand), Express.js, MongoDB, JWT, Cloudinary
-**Features:** Role-based access control, Admin dashboard, Secure image upload
+###  Event Listing Platform | [Live](https://event-listing-platform-esla.vercel.app) · [Code](https://github.com/Md-SalmanHossen/Event_Listing_Platform)
+- **Tech:** React (Zustand), Express.js, MongoDB, JWT, Cloudinary
+- **Features:** Role-based access control, Admin dashboard, Secure image upload
 
-### 🔹 Car Rental Backend | [Code](https://github.com/Md-SalmanHossen/Car_Rental_MERN/tree/main/Server)
-**Tech:** React (Context API), Node.js, Express.js, MongoDB (Mongoose), JWT, Multer
+###  Car Rental Backend | [Code](https://github.com/Md-SalmanHossen/Car_Rental_MERN/tree/main/Server)
+- **Tech:** React (Context API), Node.js, Express.js, MongoDB (Mongoose), JWT, Multer
 **Features:** Role management, Cloudinary integration, Secure REST APIs
-
-### 🔹 Portfolio Backend | [Code](https://github.com/Md-SalmanHossen/Express_Backend_Practice/tree/main/5%20Complete%20Projects%20Step4/Portfolio)
-**Tech:** Express.js, MongoDB, JWT, Nodemailer, Helmet, HPP
-**Features:** Secure mailing system, API protection, Media management
-
-### 🔹 Auth Practice Pro | [Code](https://github.com/Md-SalmanHossen/Express_Backend_Practice/tree/main/5_Auth_Practice_With_Project_Step3)
-**Tech:** Express.js, MongoDB, JWT, dotenv
-**Focus:** Deep dive into Authentication & Authorization concepts
+###  Portfolio Backend | [Code](https://github.com/Md-SalmanHossen/Express_Backend_Practice/tree/main/5%20Complete%20Projects%20Step4/Portfolio)
+- **Tech:** Express.js, MongoDB, JWT, Nodemailer, Helmet, HPP
+- **Features:** Secure mailing system, API protection, Media management
+###  Auth Practice Pro | [Code](https://github.com/Md-SalmanHossen/Express_Backend_Practice/tree/main/5_Auth_Practice_With_Project_Step3)
+- **Tech:** Express.js, MongoDB, JWT, dotenv
+- **Focus:** Deep dive into Authentication & Authorization concepts
 
 ## Tools & DevOps
 * **Version Control:** Git, GitHub.
