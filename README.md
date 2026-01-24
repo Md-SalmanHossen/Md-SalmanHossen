@@ -1,4 +1,4 @@
-## Hi! I'm a Junior Developer(MERN Stack & PostgreSQL) | Specialized in Scalable Backend Dev
+## Hi! I'm a Junior Developer| Specialized in Scalable Backend Dev( Node.js • NestJS • TypeScript • PostgreSQL • MongoDB | Basic React.js with API Integration)
 I am a Junior Full-Stack Developer (MERN) with a strong focus on backend development. I work with PostgreSQL and RESTful APIs, have solid fundamentals in Data Structures and Algorithms, 
 and aspire to become an AI-driven software engineer. Currently, I am a 3rd year CSE student at United International University (UIU), continuously improving my skills and building real-world projects.
 ### 🌐 Connect with me to know more
