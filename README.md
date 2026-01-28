@@ -16,11 +16,12 @@ and aspire to become an AI-driven software engineer. Currently, I am a 3rd year 
 ## Full Stack Development
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-D14836?style=for-the-badge&logo=mongodb&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-D14836?style=for-the-badge&logo=mongodb&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge)
+
 
 ### 🎨 Frontend Development Core Concepts:
 * React (JSX, **Hooks**, Context API),Components & **Props**, Array Methods (map, filter, reduce).
