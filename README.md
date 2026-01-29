@@ -1,69 +1,45 @@
-## Hi! I'm a Junior Developer| Specialized in Scalable Backend Dev( Node.js • TypeScript • PostgreSQL • MongoDB | Basic React.js with API Integration • NestJS)
-I am a Junior Full-Stack Developer (MERN) with a strong focus on backend development. I work with PostgreSQL and RESTful APIs, have solid fundamentals in Data Structures and Algorithms, 
-and aspire to become an AI-driven software engineer. Currently, I am a 3rd year CSE student at United International University (UIU), continuously improving my skills and building real-world projects.
-### 🌐 Connect with me to know more
+# Hi, I'm Md. Salman Hossen and Junior Full-Stack Developer.
+
+## 💻 About Me
+I'm a **Junior Full-Stack Developer** with a strong focus on **backend development**. I specialize in building **scalable backend applications** using:
+- **Node.js** • **TypeScript** • **NestJS**  
+- **PostgreSQL** • **MongoDB**  
+- **API integration with React.js**
+  
+I have fundamentals in **Data Structures & Algorithms** and **Database Management**, and I aspire to become an **AI-driven software engineer**.  Currently, I'm a **3rd-year CSE student at United International University (UIU)**, actively building real-world projects and improving my software engineering skills.
+
+
+
+### 🌐 Connect with Me
 [![Portfolio](https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=portfolio&logoColor=white)](https://github.com/Md-SalmanHossen)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hossainsalman873@gmail.com)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/mdsalman.hossen.18)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/md-salman-hossen)
 
-## Languages
-* **JavaScript:** Primary language for Full-Stack development and building scalable web applications.
-* **TypeScript:** Used for writing type-safe, robust, and maintainable code over JavaScript.
-* **Java:** Deeply explored for Object-Oriented Programming (OOPS) concepts and logic building.
-* **C / C++:** Learned for mastering Structured Programming and understanding core computer science fundamentals.
 
-## Full Stack Development
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-D14836?style=for-the-badge&logo=mongodb&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge)
+## 🛠️ Skills
+
+- **Backend:** Node.js, Express.js, NestJS, REST APIs, Microservices, JWT, RBAC, Redis, Multer, Cloudinary  
+- **Frontend:** React.js (Hooks, Router v7, Axios, Form Handling, Zustand), Tailwind CSS, Bootstrap  
+- **Database:** PostgreSQL, MongoDB  
+- **Languages:** JavaScript, TypeScript, Java, C/C++  
+- **Tools & DevOps:** Git, Docker, Postman, Vercel, Render, Netlify  
 
 
-### 🎨 Frontend Development Core Concepts:
-* React (JSX, **Hooks**, Context API),Components & **Props**, Array Methods (map, filter, reduce).
-* React **Router v7, Axios**,Fetch Api,
-* **Form Handling.** and zod
-* **Zustand**
-* Tailwind CSS and Bootsrap
+## 📂 Featured Projects
+- **Event Listing Platform** | [Live](https://event-listing-platform-esla.vercel.app) · [Code](https://github.com/Md-SalmanHossen/Event_Listing_Platform)  
+- **Car Rental Backend** | [Code](https://github.com/Md-SalmanHossen/Car_Rental_MERN/tree/main/Server)  
+- **Portfolio Backend** | [Code](https://github.com/Md-SalmanHossen/Express_Backend_Practice/tree/main/5%20Complete%20Projects%20Step4/Portfolio)  
+- **Auth Practice Pro** | [Code](https://github.com/Md-SalmanHossen/Express_Backend_Practice/tree/main/5_Auth_Practice_With_Project_Step3)  
 
-### ⚙️ Backend Development Core Concepts:
-* **Node.js, Express.js**
-* Databases: **MongoDB, PostgreSQL**
-* Authentication & Security: JWT, Sessions & Cookies(Roll Base Access Control) CORS, HPP, Helmet
-* File & Media Handling: Multer, Cloudinary,Nodemailer
-* MVC-based **Industry-Standard Folder Structure** ,REST API Development
 
-## ⭐ Featured Projects
-###  Event Listing Platform | [Live](https://event-listing-platform-esla.vercel.app) · [Code](https://github.com/Md-SalmanHossen/Event_Listing_Platform)
-- **Tech:** React (Zustand), Express.js, MongoDB, JWT, Cloudinary
-- **Features:** Role-based access control, Admin dashboard, Secure image upload
+## 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=Md-SalmanHossen&theme=default&hide_border=false&include_all_commits=false&count_private=false)  
+![](https://nirzak-streak-stats.vercel.app/?user=Md-SalmanHossen&theme=default&hide_border=false)  
 
-###  Car Rental Backend | [Code](https://github.com/Md-SalmanHossen/Car_Rental_MERN/tree/main/Server)
-- **Tech:** React (Context API), Node.js, Express.js, MongoDB (Mongoose), JWT, Multer
-**Features:** Role management, Cloudinary integration, Secure REST APIs
-###  Portfolio Backend | [Code](https://github.com/Md-SalmanHossen/Express_Backend_Practice/tree/main/5%20Complete%20Projects%20Step4/Portfolio)
-- **Tech:** Express.js, MongoDB, JWT, Nodemailer, Helmet, HPP
-- **Features:** Secure mailing system, API protection, Media management
-###  Auth Practice Pro | [Code](https://github.com/Md-SalmanHossen/Express_Backend_Practice/tree/main/5_Auth_Practice_With_Project_Step3)
-- **Tech:** Express.js, MongoDB, JWT, dotenv
-- **Focus:** Deep dive into Authentication & Authorization concepts
 
-## Tools & DevOps
-* **Version Control:** Git, GitHub.
-* **API Testing:** Postman.
-* **Containerization:** Docker.
-* **Deployment:** Vercel, Render, Netlify.
-
-## Fundamental Concepts: 
-* **DSA**: To develop efficient problem-solving skills and write optimized, scalable software. 
-* **DBMS**: Structured data storage, retrieval, and management using SQL and relational models.
-* **Networking**: Fundamentals of data communication, protocols, and network architecture.
-
-### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Md-SalmanHossen&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Md-SalmanHossen&theme=default&hide_border=false)<br/>
-
+### 🎯 My Initial Goals :
+- **Remotely job** to explore teach.
+- Build **scalable backend systems** with modern architectures  
+- Gain expertise in **microservices & cloud deployment**  
+- Evolve into a **full-stack engineer with AI & ML integration**
