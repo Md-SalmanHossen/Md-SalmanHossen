@@ -1,4 +1,4 @@
-# Hi, I'm Md. Salman Hossen and Junior Full-Stack Developer.
+# Hi, I'm Md. Salman Hossen and a Junior Full-Stack Developer.
 
 ## 💻 About Me
 I'm a **Junior Full-Stack Developer** with a strong focus on **backend development**. I specialize in building **scalable backend applications** using:
@@ -34,8 +34,8 @@ I have fundamentals in **Data Structures & Algorithms** and **Database Managemen
 
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=Md-SalmanHossen&theme=default&hide_border=false&include_all_commits=false&count_private=false)  
-![](https://nirzak-streak-stats.vercel.app/?user=Md-SalmanHossen&theme=default&hide_border=false)  
+![](https://github-readme-stats.vercel.app/api?username=Md-SalmanHossen&theme=default&hide_border=false&include_all_commits=false&count_private=false)  ![](https://nirzak-streak-stats.vercel.app/?user=Md-SalmanHossen&theme=default&hide_border=false)  
+
 
 
 ### 🎯 My Initial Goals :
