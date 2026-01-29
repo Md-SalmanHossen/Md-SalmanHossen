@@ -34,7 +34,8 @@ I have fundamentals in **Data Structures & Algorithms** and **Database Managemen
 
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=Md-SalmanHossen&theme=default&hide_border=false&include_all_commits=false&count_private=false)  ![](https://nirzak-streak-stats.vercel.app/?user=Md-SalmanHossen&theme=default&hide_border=false)  
+![](https://github-readme-stats.vercel.app/api?username=Md-SalmanHossen&theme=default&hide_border=false&include_all_commits=false&count_private=false)  
+![](https://nirzak-streak-stats.vercel.app/?user=Md-SalmanHossen&theme=default&hide_border=false)  
 
 
 
