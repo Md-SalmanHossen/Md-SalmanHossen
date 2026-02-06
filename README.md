@@ -23,7 +23,7 @@ I have fundamentals in **Data Structures & Algorithms** and **Database Managemen
 - **Frontend:** React.js (Hooks, Router v7, Axios, Form Handling, Zustand), Tailwind CSS, Bootstrap  
 - **Database:** PostgreSQL, MongoDB  
 - **Languages:** JavaScript, TypeScript, Java, C/C++  
-- **Tools & DevOps:** Git, Docker, Postman, Vercel, Render, Netlify  
+- **Tools & DevOps:** Git, Docker, Postman, Vercel, Render
 
 
 ## 📂 Featured Projects
