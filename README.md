@@ -1,7 +1,7 @@
 # Hi, I'm Md. Salman Hossen and a Junior Full-Stack Developer.
 
 ## 💻 About Me
-I'm a **Junior Full-Stack Developer** with a strong focus on **backend development**. I specialize in building **scalable backend applications** using:
+I'm a **Junior Full-Stack Developer** with a strong focus on **backend development(full stack developer )**. I specialize in building **scalable backend applications** using:
 - **Node.js** • **TypeScript** • **NestJS**  
 - **PostgreSQL** • **MongoDB**  
 - **API integration with React.js**
