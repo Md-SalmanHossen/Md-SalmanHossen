@@ -19,11 +19,11 @@ I have fundamentals in **Data Structures & Algorithms** and **Database Managemen
 
 ## 🛠️ Skills
 
-- **Backend:** Node.js, Express.js, NestJS, REST APIs, Microservices, JWT, RBAC, Redis, Multer, Cloudinary  
+- **Backend:** Node.js, Express.js, NestJS, REST APIs, Microservices, JWT, RBAC, Multer, Cloudinary  
 - **Frontend:** React.js (Hooks, Router v7, Axios, Form Handling, Zustand), Tailwind CSS, Bootstrap  
-- **Database:** PostgreSQL, MongoDB  
+- **Database:** PostgreSQL,MongoDB,Redis
 - **Languages:** JavaScript, TypeScript, Java, C/C++  
-- **Tools & DevOps:** Git, Docker, Postman, Vercel, Render
+- **Tools & DevOps:** Git,Github,Docker, Postman,Vercel
 
 
 ## 📂 Featured Projects
