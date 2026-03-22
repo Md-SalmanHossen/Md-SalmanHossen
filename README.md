@@ -18,7 +18,7 @@ I have fundamentals in **Data Structures & Algorithms** and **Database Managemen
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/md-salman-hossen)
 
 
-## 🛠️ Skills
+## 🛠️ Skills :
 
 - **Backend:** Node.js, Express.js, NestJS, REST APIs, JWT, RBAC, Multer, Cloudinary  
 - **Frontend:** React.js (Hooks, Router v7, Axios, Form Handling, Zustand), Tailwind CSS, Bootstrap  
@@ -27,14 +27,14 @@ I have fundamentals in **Data Structures & Algorithms** and **Database Managemen
 - **Tools & DevOps:** Git,Github,Docker, Postman,Vercel
 
 
-## 📂 Featured Projects
+## 📂 Featured Projects :
 - **Event Listing Platform** | [Live](https://event-listing-platform-esla.vercel.app) · [Code](https://github.com/Md-SalmanHossen/Event_Listing_Platform)  
 - **Car Rental Backend** | [Code](https://github.com/Md-SalmanHossen/Car_Rental_MERN/tree/main/Server)  
 - **Portfolio Backend** | [Code](https://github.com/Md-SalmanHossen/Express_Backend_Practice/tree/main/5%20Complete%20Projects%20Step4/Portfolio)  
 - **Auth Practice Pro** | [Code](https://github.com/Md-SalmanHossen/Express_Backend_Practice/tree/main/5_Auth_Practice_With_Project_Step3)  
 
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=Md-SalmanHossen&theme=default&hide_border=false&include_all_commits=false&count_private=false)  
 ![](https://nirzak-streak-stats.vercel.app/?user=Md-SalmanHossen&theme=default&hide_border=false)  
 
