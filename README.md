@@ -1,4 +1,4 @@
-# Hi, I'm Md. Salman Hossen and a Junior Backend Developer(MERN Stack Developer)
+# Hi, I'm Md. Salman Hossen and a Junior Backend Developer(MERN Stack)
 
 ## 💻 About Me
 I'm a **Junior Full-Stack Developer**(Backend) with a strong focus on **backend development(full stack developer )**. I specialize in building **scalable backend applications** using:
