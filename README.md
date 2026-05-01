@@ -3,7 +3,7 @@
 ## 💻 About Me
 I'm a **Junior Full-Stack Developer**(Backend) with a strong focus on **backend development(full stack developer )**. I specialize in building **scalable backend applications** using:
 - **Node.js** • **TypeScript** • **NestJS**  
-- **PostgreSQL** • **MongoDB**  
+- **PostgreSQL** • **MongoDB**  **Redis**
 - **API integration with React.js**
 - **Version control with Git and Github**
   
@@ -22,7 +22,7 @@ I have fundamentals in **Data Structures & Algorithms** and **Database Managemen
 
 - **Backend:** **Node.js, Express.js, NestJS, REST APIs, JWT, RBAC**, Multer, Cloudinary  
 - **Frontend:** React.js (Hooks, Router v7, Axios, Form Handling, Zustand), Tailwind CSS, Bootstrap  
-- **Database:** PostgreSQL,MongoDB
+- **Database:** PostgreSQL,MongoDB,Redis
 - **Languages:** JavaScript, TypeScript, Java, C/C++  
 - **Tools & DevOps:** Git,Github,Docker, Postman,Vercel
 
