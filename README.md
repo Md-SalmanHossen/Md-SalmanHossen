@@ -2,7 +2,7 @@
 
 ## 💻 About Me
 I'm a **Junior Full-Stack Developer**(Backend) with a strong focus on **backend development(full stack developer )**. I specialize in building **scalable backend applications** using:
-- **Node.js** • **TypeScript** • **NestJS**  
+- **Node.js** • **TypeScript** • **NestJS**(Learning)  
 - **PostgreSQL** • **MongoDB**  **Redis**
 - **API integration with React.js**
 - **Version control with Git and Github**
