@@ -2,10 +2,11 @@
 
 ## 💻 About Me
 I'm a **Junior Full-Stack Developer**(Backend) with a strong focus on **backend development(full stack developer )**. I specialize in building **scalable backend applications** using:
-- **Node.js** • **TypeScript** • **NestJS**(Learning)  
-- **PostgreSQL** • **MongoDB**  **Redis**
-- **API integration with React.js**
+- **Express.js** • **TypeScript** • **NestJS**(Learning)  
+- **PostgreSQL** • **MongoDB** • **Redis**
 - **Version control with Git and Github**
+- **Docker**
+- - **API integration with React.js**
   
 I have fundamentals in **Data Structures & Algorithms** and **Database Management**, and I aspire to become an **AI-driven software engineer**.  Currently, I'm a **3rd-year CSE student at United International University (UIU)**, actively building real-world projects and improving my software engineering skills.
 
@@ -23,7 +24,7 @@ I have fundamentals in **Data Structures & Algorithms** and **Database Managemen
 - **Backend:** **Node.js, Express.js, NestJS, REST APIs, JWT, RBAC**, Multer, Cloudinary  
 - **Frontend:** React.js (Hooks, Router v7, Axios, Form Handling, Zustand), Tailwind CSS, Bootstrap  
 - **Database:** PostgreSQL,MongoDB,Redis
-- **Languages:** JavaScript, TypeScript, Java, C/C++  
+- **Languages:** JavaScript, TypeScript, Java,  
 - **Tools & DevOps:** Git,Github,Docker, Postman,Vercel
 
 
@@ -35,9 +36,8 @@ I have fundamentals in **Data Structures & Algorithms** and **Database Managemen
 
 
 ## 📊 GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=Md-SalmanHossen&theme=default&hide_border=false&include_all_commits=false&count_private=false)  
-![](https://nirzak-streak-stats.vercel.app/?user=Md-SalmanHossen&theme=default&hide_border=false)  
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Md-SalmanHossen&theme=default&hide_border=false&include_all_commits=true&count_private=true)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Md-SalmanHossen&theme=default&hide_border=false)
 
 
 ### 🎯 My Initial Goals :
