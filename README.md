@@ -1,12 +1,15 @@
-# Hi, I'm Md. Salman Hossen and a Junior Backend Developer(MERN Stack)
+# Hi, I'm Md. Salman Hossen and a Junior Backend Developer
 
 ## 💻 About Me
 I'm a **Junior Full-Stack Developer**(Backend) with a strong focus on **backend development(full stack developer )**. I specialize in building **scalable backend applications** using:
 - **Express.js** • **TypeScript** • **NestJS**(Learning)  
 - **PostgreSQL** • **MongoDB** • **Redis**
 - **Version control with Git and Github**
-- **Docker**
-- - **API integration with React.js**
+- **Docker for contenarize** 
+- **API integration with React.js**
+- **Jest for unit test**
+- **Winston logging and Sweggar**
+- **Socket.io**
   
 I have fundamentals in **Data Structures & Algorithms** and **Database Management**, and I aspire to become an **AI-driven software engineer**.  Currently, I'm a **3rd-year CSE student at United International University (UIU)**, actively building real-world projects and improving my software engineering skills.
 
