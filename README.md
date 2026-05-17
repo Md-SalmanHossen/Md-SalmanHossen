@@ -46,4 +46,4 @@ I have fundamentals in **Data Structures & Algorithms** and **Database Managemen
 - **Remotely job** to explore teach.
 - Build **scalable backend systems** with modern architectures  
 - Gain expertise in **microservices & cloud deployment**  
-- Evolve into a **full-stack engineer with AI & ML integration**
+- Evolve into a **full-stack engineer with MLOPS integration**
