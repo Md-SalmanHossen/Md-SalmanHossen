@@ -9,7 +9,7 @@ I'm a **Junior Full-Stack Developer**(Backend) with a strong focus on **backend 
 - **API integration with React.js**
 - **Jest for unit test**
 - **Pino logging and Sweggar**
-- **Socket.io**
+
   
 I have fundamentals in **Data Structures & Algorithms** and **Database Management**, and I aspire to become an **AI-driven software engineer**.  Currently, I'm a **3rd-year CSE student at United International University (UIU)**, actively building real-world projects and improving my software engineering skills.
 
