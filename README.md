@@ -32,10 +32,10 @@ I have fundamentals in **Data Structures & Algorithms** and **Database Managemen
 
 
 ## 📂 Featured Projects :
-- **Event Listing Platform** | [Live](https://event-listing-platform-esla.vercel.app) · [Code](https://github.com/Md-SalmanHossen/Event_Listing_Platform)  
-- **Car Rental Backend** | [Code](https://github.com/Md-SalmanHossen/Car_Rental_MERN/tree/main/Server)  
-- **Portfolio Backend** | [Code](https://github.com/Md-SalmanHossen/Express_Backend_Practice/tree/main/5%20Complete%20Projects%20Step4/Portfolio)  
-- **Auth Practice Pro** | [Code](https://github.com/Md-SalmanHossen/Express_Backend_Practice/tree/main/5_Auth_Practice_With_Project_Step3)  
+- **Event Listing Platform** : [Live](https://event-listing-platform-esla.vercel.app) • [Code](https://github.com/Md-SalmanHossen/Event_Listing_Platform)
+- **DevPulse** : [Live](https://dev-pulse-ebon-eight.vercel.app/) • [Code](https://github.com/Md-SalmanHossen/DevPulse)  
+- **Portfolio Backend** : [Code](https://github.com/Md-SalmanHossen/Express_Backend_Practice/tree/main/5%20Complete%20Projects%20Step4/Portfolio)  
+- **Auth Practice Pro** : [Code](https://github.com/Md-SalmanHossen/Express_Backend_Practice/tree/main/5_Auth_Practice_With_Project_Step3)  
 
 
 ## 📊 GitHub Stats :
