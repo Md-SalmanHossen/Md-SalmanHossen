@@ -1,14 +1,13 @@
 # Hi, I'm Md. Salman Hossen and a Junior Backend Developer
 
 ## 💻 About Me
-I'm a **Junior Full-Stack Developer**(Backend) with a strong focus on **backend development(full stack developer )**. I specialize in building **scalable backend applications** using:
+I'm a **Junior Full-Stack Developer** with a strong focus on **backend development(full stack )**. I specialize in building **scalable backend applications** using:
 - **Express.js** • **TypeScript**
-- **PostgreSQL** • **MongoDB** • **Redis**
+- **PostgreSQL** • **MongoDB** • **Prisma** • **Redis**
 - **Version control with Git and Github**
 - **Docker for contenarize** 
 - **API integration with React.js**
 
-  
 I have fundamentals in **Data Structures & Algorithms** and **Database Management**, and I aspire to become an **AI-driven software engineer**.  Currently, I'm a **3rd-year CSE student at United International University (UIU)**, actively building real-world projects and improving my software engineering skills.
 
 
@@ -24,7 +23,7 @@ I have fundamentals in **Data Structures & Algorithms** and **Database Managemen
 
 - **Backend:** **Node.js, Express.js, NestJS, REST APIs, JWT, RBAC**, Multer, Cloudinary  
 - **Frontend:** React.js (Hooks, Router v7, Axios, Form Handling, Zustand), Tailwind CSS, Bootstrap  
-- **Database:** PostgreSQL,MongoDB,Redis
+- **Database:** PostgreSQL,MongoDB,Redis,Prisma
 - **Languages:** JavaScript, TypeScript, Java,  
 - **Tools & DevOps:** Git,Github,Docker, Postman,Vercel
 
