@@ -32,8 +32,6 @@ I have fundamentals in **Data Structures & Algorithms** and **Database Managemen
 - **Event Listing Platform** : [Live](https://event-listing-platform-esla.vercel.app) • [Code](https://github.com/Md-SalmanHossen/Event_Listing_Platform)
 - **DevPulse** : [Live](https://dev-pulse-ebon-eight.vercel.app/) • [Code](https://github.com/Md-SalmanHossen/DevPulse)  
 - **Portfolio Backend** : [Code](https://github.com/Md-SalmanHossen/Express_Backend_Practice/tree/main/5%20Complete%20Projects%20Step4/Portfolio)  
-- **Auth Practice Pro** : [Code](https://github.com/Md-SalmanHossen/Express_Backend_Practice/tree/main/5_Auth_Practice_With_Project_Step3)  
-
 
 ## 📊 GitHub Stats :
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Md-SalmanHossen&theme=default&hide_border=false)
