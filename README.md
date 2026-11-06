@@ -23,8 +23,8 @@ I have fundamentals in **Data Structures & Algorithms** and **Database Managemen
 
 - **Backend:** **Node.js, Express.js, NestJS, REST APIs, JWT, RBAC**, Multer, Cloudinary  
 - **Frontend:** React.js (Hooks, Router v7, Axios, Form Handling, Zustand), Tailwind CSS, Bootstrap  
-- **Database:** PostgreSQL,MongoDB,Redis,Prisma
-- **Languages:** JavaScript, TypeScript, Java,  
+- **Database:** PostgreSQL,MongoDB,Redis,Prism
+- **Languages:** JavaScript, TypeScript, Java,Python  
 - **Tools & DevOps:** Git,Github,Docker, Postman,Vercel
 
 
