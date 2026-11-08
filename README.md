@@ -1,4 +1,4 @@
-# Hi, I'm Md. Salman Hossen and a Junior Backend Developer and AI Ingrigation 
+# Hi, I'm Md. Salman Hossen and a Junior Backend and AI Ingrigation Developer
 
 ## 💻 About Me
 I'm a **Junior Full-Stack Developer** with a strong focus on **backend development(full stack )**. I specialize in building **scalable backend applications** using:
