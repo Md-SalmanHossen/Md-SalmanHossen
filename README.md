@@ -1,4 +1,4 @@
-# Hi, I'm Md. Salman Hossen and a Junior Backend Developer
+# Hi, I'm Md. Salman Hossen and a Junior Backend Developer and AI Ingrigation 
 
 ## 💻 About Me
 I'm a **Junior Full-Stack Developer** with a strong focus on **backend development(full stack )**. I specialize in building **scalable backend applications** using:
@@ -7,8 +7,9 @@ I'm a **Junior Full-Stack Developer** with a strong focus on **backend developme
 - **Version control with Git and Github**
 - **Docker for contenarize** 
 - **API integration with React.js**
+- **LLM,RAG,VectorDB(Pinecone and PgVector)**
 
-I have fundamentals in **Data Structures & Algorithms** and **Database Management**, and I aspire to become an **AI-driven software engineer**.  Currently, I'm a **3rd-year CSE student at United International University (UIU)**, actively building real-world projects and improving my software engineering skills.
+I have fundamentals in **Data Structures & Algorithms** and **Database Management**, and I aspire to become an **AI-driven software engineer**.  Currently, I'm a **4th-year CSE student at United International University (UIU)**, actively building real-world projects and improving my software engineering skills.
 
 
 
