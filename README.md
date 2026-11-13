@@ -1,8 +1,8 @@
 # Hi, I'm Md. Salman Hossen and a Junior Backend and AI Ingrigation Developer
 
 ## 💻 About Me
-I'm a **Junior Full-Stack Developer** with a strong focus on **backend development(full stack )**. I specialize in building **scalable backend applications** using:
-- **Express.js** • **TypeScript**
+I'm a **Junior Full-Stack Developer** with a strong focus on **backend development**. I specialize in building **scalable backend applications** using:
+- **Express.js** • **TypeScript** • **Python**
 - **PostgreSQL** • **MongoDB** • **Prisma** • **Redis**
 - **Version control with Git and Github**
 - **Docker for contenarize** 
@@ -24,7 +24,8 @@ I have fundamentals in **Data Structures & Algorithms** and **Database Managemen
 
 - **Backend:** **Node.js, Express.js, NestJS, REST APIs, JWT, RBAC**, Multer, Cloudinary  
 - **Frontend:** React.js (Hooks, Router v7, Axios, Form Handling, Zustand), Tailwind CSS, Bootstrap  
-- **Database:** PostgreSQL,MongoDB,Redis,Prism
+- **Database:** PostgreSQL,MongoDB,Redis,Prisma
+- **Queue System:** Bullmq,Kafka
 - **Languages:** JavaScript, TypeScript, Java,Python  
 - **Tools & DevOps:** Git,Github,Docker, Postman,Vercel
 
