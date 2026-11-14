@@ -3,7 +3,7 @@
 ## 💻 About Me
 I'm a **Junior Full-Stack Developer** with a strong focus on **backend development**. I specialize in building **scalable backend applications** using:
 - **Express.js** • **TypeScript** • **Python**
-- **PostgreSQL** • **MongoDB** • **Prisma** • **Redis**
+- **PostgreSQL** • **MongoDB** • **Prisma** • **Redis** • **Kafka**
 - **Version control with Git and Github**
 - **Docker for contenarize** 
 - **API integration with React.js**
@@ -22,12 +22,12 @@ I have fundamentals in **Data Structures & Algorithms** and **Database Managemen
 
 ## 🛠️ Skills :
 
-- **Backend:** **Node.js, Express.js, NestJS, REST APIs, JWT, RBAC**, Multer, Cloudinary  
+- **Backend:** **Node.js, Express.js, NestJS, REST APIs, JWT, RBAC**, Multer, Cloudinary,Sweggar,Socket.io,  
 - **Frontend:** React.js (Hooks, Router v7, Axios, Form Handling, Zustand), Tailwind CSS, Bootstrap  
-- **Database:** PostgreSQL,MongoDB,Redis,Prisma
+- **Database:** PostgreSQL,MongoDB,PostgreSql,Redis,Prisma,PgVector
 - **Queue System:** Bullmq,Kafka
-- **Languages:** JavaScript, TypeScript, Java,Python  
-- **Tools & DevOps:** Git,Github,Docker, Postman,Vercel
+- **Languages:** JavaScript, TypeScript, Java,Python,C
+- **Tools & DevOps:** Git,Github,Docker, Postman,Github Action
 
 
 ## 📂 Featured Projects :
