@@ -9,10 +9,6 @@ I'm a **Junior Full-Stack Developer** with a strong focus on **backend developme
 - **API integration with React.js**
 - **LLM,RAG,VectorDB(Pinecone and PgVector)**
 
-I have fundamentals in **Data Structures & Algorithms** and **Database Management**, and I aspire to become an **AI-driven software engineer**.  Currently, I'm a **4th-year CSE student at United International University (UIU)**, actively building real-world projects and improving my software engineering skills.
-
-
-
 ### 🌐 Connect with Me
 [![Portfolio](https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=portfolio&logoColor=white)](https://salman-portfolio-eta-eight.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hossainsalman873@gmail.com)
@@ -21,7 +17,6 @@ I have fundamentals in **Data Structures & Algorithms** and **Database Managemen
 
 
 ## 🛠️ Skills :
-
 - **Backend:** **Node.js, Express.js, NestJS, REST APIs, JWT, RBAC**, Multer, Cloudinary,Sweggar,Socket.io,  
 - **Frontend:** React.js (Hooks, Router v7, Axios, Form Handling, Zustand), Tailwind CSS, Bootstrap  
 - **Database:** PostgreSQL,MongoDB,PostgreSql,Redis,Prisma,PgVector
